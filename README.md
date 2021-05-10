@@ -1,2 +1,2 @@
-# Learning-Python-Basics-from-Udemy
+# Learning Python
 Learning PYthon basics from udemy 
